@@ -20,38 +20,36 @@ A simple representation of the application's flow:
 ```
 User Input → API Request → AI Model → Response Generation → Display to User
 ```
-- ![User Input](assets/images/flow.png)
+- ![User Input](assets/flow.png)
 
 ### How It Works
 
 1. **User Input**
    - The user enters a prompt and submits it.
-   - ![User Input](assets/images/prompt.png)
+   - ![User Input](assets/prompt.png)
 
 2. **AI Processing**
    - The system processes the input via an AI API and generates a response.
-   - ![AI Processing](assets/images/processing.png)
+   - ![AI Processing](assets/processing.png)
 
 3. **Response Display**
    - The generated text is displayed to the user.
-   - ![Response Display](assets/images/response.png)
+   - ![Response Display](assets/response.png)
 
 4. **Stop Button**
    - Users can halt response generation mid-way.
-   - ![Stop Button](assets/images/stop.png)
+   - ![Stop Button](assets/stop.png)
 
 5. **Save Button**
    - Users can save the conversation for later review.
-   - ![Save Button](assets/images/save1.png)
-   - ![Save Button](assets/images/save2.png)
+   - ![Save Button](assets/save1.png)
+   - ![Save Button](assets/save2.png)
 6. **Dark Theme**
-   - ![Dark Theme](assets/images/dark.png)
+   - ![Dark Theme](assets/dark.png)
 
 ### Personal Notes
 
 This project demonstrates the interaction between users and an AI model in a simple yet effective way. The inclusion of a stop button improves user control, and the save feature adds practical usability. Future improvements could include enhancing UI/UX, adding multi-turn conversation history, and implementing different AI model choices.
 
----
-
-**Author:** Bunyamin Yavuz  
+--- 
 
